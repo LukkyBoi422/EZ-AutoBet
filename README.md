@@ -12,4 +12,5 @@ all the way to 30/1 and clicks the lowest possible bet
 # Keybinds
 F10 START
 F9 STOP
+
 ![Banner](gh-media/example.png)  
