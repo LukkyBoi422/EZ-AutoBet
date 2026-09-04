@@ -14,3 +14,12 @@ F10 START
 F9 STOP
 
 ![Banner](gh-media/example.png)  
+
+# Build it yourself?
+Pyinstaller Commmand:
+python -m PyInstaller --onedir --noconsole --add-data "templates;templates" --add-data "icon.ico;." --icon=icon.ico --name EZAutoBet main.py
+
+When it builds put the icon.ico in the directory of the build so it doesn't crash
+
+Python Version:
+Python 3.13.15

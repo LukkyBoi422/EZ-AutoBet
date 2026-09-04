@@ -403,6 +403,7 @@ root = tk.Tk()
 
 root.title("EZ AutoBet")
 root.geometry("330x290")
+root.iconbitmap("icon.ico")
 root.resizable(False, False)
 
 # DARK THEME
